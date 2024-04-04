@@ -1,0 +1,30 @@
+
+body{
+   
+    background-color: rgb(17, 0, 255);
+    margin: 40px;
+    
+
+}
+.pic{
+    position: relative;
+left: 50px;
+padding-top:10%;
+}
+ 
+.container{
+    position: relative;
+   left:40%;
+    height:100%;
+    width: 40%;
+
+
+}
+.header{
+    background: white;
+    gap: 30px;
+}
+
+
+
+
